@@ -1,0 +1,3 @@
+node_modules/
+server/test
+package-lock.json
